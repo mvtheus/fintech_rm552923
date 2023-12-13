@@ -1,0 +1,117 @@
+* { 
+  box-sizing: border-box;
+  padding: auto;
+  margin: 0 auto;
+}
+
+
+
+body {
+  background-color: #256974;
+}
+
+
+#header {
+  color: #FFFFFF;
+  background-color: #161028;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.box{
+  display: flex;
+  width: 100%;
+}
+
+.box2{
+  display: flex;
+  width: 100%;
+}
+
+.box3{
+  display: flex;
+  width: 100%;
+  background-color: #8D8D8D;
+}
+
+#boas_vindas {
+font-size: 50px;
+width: 100%;
+padding-left: 5%;
+}
+
+
+#saldo_corrente {
+  font-size: 30px;
+  width: 100%;
+  padding-left: 80%;
+}
+
+
+#saldo {
+padding-left: 80%;
+ font-size: 30px;
+ text-align: end;
+}
+
+.mid {
+  background-color: #256974;
+  width: 100%;
+
+}
+
+.container {
+  display: flex;
+  background-color: #256974;
+  width: 100%;
+  
+
+}
+
+.atalho { 
+  display: block;
+  margin: 50px 50px;
+  width: 100%;
+
+}
+
+.negrito {
+  font-weight: bold;
+  text-shadow: 0px 4px 0px rgba(0, 0, 0, 0.25);
+  
+}
+
+.nome_atividade {
+  font-size: 25px;
+  font-weight: bolder;
+  text-decoration: black;
+  text-align: center;
+  
+}
+
+
+
+.container2 {
+  display: flex;
+  background-color: #8D8D8D;
+  width: 100%;
+
+  
+
+}
+.tarefas {
+  background-color: #8D8D8D;
+  position: static;
+  width: 100%;
+  text-align: center;
+  position: 0px;
+}
+
+.feed {
+ display: flex;
+ background-color: #8D8D8D;
+ position: static;
+ text-align: center;
+ justify-content: center;
+}
